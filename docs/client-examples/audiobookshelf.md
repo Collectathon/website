@@ -18,7 +18,7 @@ id: audiobookshelf
 
 1. Log in to Audiobookshelf as an admin.  
 2. Go to **Settings → Authentication**.  
-3. Check **OpenID Connect Authentication**.  
+3. Enable **OpenID Connect Authentication**.  
 4. Enter the `OIDC Discovery URL` into the **Issuer URL** field then click **Auto-populate**. 
 5. Enter the `Client ID` into the **Client ID** field.  
 6. Enter the `Client Secret` into the **Client Secret** field.  
