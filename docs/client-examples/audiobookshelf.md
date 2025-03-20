@@ -8,7 +8,7 @@ id: audiobookshelf
 1. In Pocket ID, create a new OIDC client named `Audiobookshelf` (or any name you prefer).  
 2. (Optional) Set a logo for the OIDC client.  
 3. Set the callback URLs to:
-`https://<your.server.com>/auth/openid/callback`
+`https://<your.server.com>/auth/openid/callback` and
 `https://<your.server.com>/auth/openid/mobile-redirect`
 4. Set the logout callback URL to:
 `https://<your.server.com>/application/o/audiobookshelf/end-session/`
